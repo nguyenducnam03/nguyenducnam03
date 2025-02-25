@@ -30,6 +30,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="48" height="48"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt = "vscode" width="48" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "jupyter notebook" width="48" height="48"/>
+<!--   <img src="https://commons.wikimedia.org/wiki/File:PyTorch_logo_icon.svg.png" alt = "Pytorch" width="48" height="48"/> -->
 </p>
 
 ## 🔥 GitHub Stats 🔥
